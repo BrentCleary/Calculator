@@ -1,6 +1,8 @@
 ﻿using System.Diagnostics;
 using Newtonsoft.Json;
 
+// App Tutorial : https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console-part-2?view=vs-2022
+
 namespace CalculatorLibrary
 {
     public class Calculator
